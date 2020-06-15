@@ -1,0 +1,9 @@
+{
+    "name": "nodejs_basic_structure",
+    "version": "1.0.0",
+    "author": "sinanzt",
+    "homepage": "https://sinanzt.github.io",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
